@@ -3,8 +3,8 @@
 
     
     <url>
-     <loc>None/</loc>
-     <lastmod>2017-09-19</lastmod>
+     <loc>/</loc>
+     <lastmod>2017-09-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,14 +12,36 @@
     
         
     <url>
-     <loc>None/linear/</loc>
-     <lastmod>2017-09-19</lastmod>
+     <loc>/getting_started/</loc>
+     <lastmod>2017-09-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/split/</loc>
-     <lastmod>2017-09-19</lastmod>
+     <loc>/linear_back_stack/</loc>
+     <lastmod>2017-09-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/split_back_stack/</loc>
+     <lastmod>2017-09-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/view_creator/</loc>
+     <lastmod>2017-09-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/license/</loc>
+     <lastmod>2017-09-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
